@@ -4,9 +4,9 @@ download news.csv dataset from https://www.kaggle.com/samridhisuri/newscsv for t
 
 >In Fakenews_lstm.ipynb notebook
  * We used NLP for preprocessing data
- * developed and trained 2 models  : 
-                                    1. model = lstm
-                                    2. model1 = Bidirectional lstm
+ * developed and trained 2 models : 
+    1. model = lstm
+    1. model1 = Bidirectional lstm
                                    
 **Long short-term memory** (LSTM) is an artificial recurrent neural network (RNN) architecture[1] used in 
 the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It 
